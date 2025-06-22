@@ -1,4 +1,4 @@
-# 🚀 Project Instructions for Next-Gen Builders
+# 🚀 Project Instructions for mini assessment 
 
 
 Welcome!  
@@ -9,7 +9,7 @@ Each participant should complete the task for **their selected track** only:
 - 📈 Data Scientist
 - 🤖 Machine Learning Engineer
 
-You have **24 hours** to complete and submit your task.  
+You have **still the 26th of june** to complete and submit your task.  
 Push your work to GitHub and paste your **public repo link** in the submission form.
 
 ---
@@ -134,4 +134,3 @@ Do not use the "Test" or "Predict" folders provided.
 ---
 
 👩🏽‍💻 Good luck! Show us your data skills.
-For support, reach out to the Hacktron 2025 Team.
