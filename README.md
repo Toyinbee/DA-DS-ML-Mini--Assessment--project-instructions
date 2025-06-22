@@ -9,7 +9,7 @@ Each participant should complete the task for **their selected track** only:
 - 📈 Data Scientist
 - 🤖 Machine Learning Engineer
 
-You have **still the 26th of june** to complete and submit your task.  
+You have **till the 26th of june** to complete and submit your task.  
 Push your work to GitHub and paste your **public repo link** in the submission form.
 
 ---
