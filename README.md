@@ -1,5 +1,5 @@
-# 🚀 Project Instructions for Next-Gen Leaders
-**Hacktron 2025 – Pre-Assessment Data Track**
+# 🚀 Project Instructions for Next-Gen Builders
+
 
 Welcome!  
 This document contains your project tasks and guidelines.  
@@ -20,7 +20,7 @@ Push your work to GitHub and paste your **public repo link** in the submission f
 🔗 [Download Dataset (Google Drive)](https://drive.google.com/drive/folders/1ZO7eDc6A7fCPPsBTAfplcXdwQ3H-yHr4)
 
 ### 🎯 Task Objectives
-
+You are to analyze the supermarket sales dataset to uncover trends and key business insights.
 1. **Data Cleaning**
    - Handle nulls and fix data types
    - Convert date/time columns
@@ -55,7 +55,7 @@ Push your work to GitHub and paste your **public repo link** in the submission f
 🔗 [Download Dataset (Google Drive)](https://drive.google.com/file/d/1ZWlARDidjll5Wf2m8e-TQI8-gjcBKM1I/view?usp=drivesdk)
 
 ### 🎯 Task Objectives
-
+You are to build a predictive model that determines whether a customer is likely to default on their loan based on the dataset provided.
 1. **Preprocessing & Cleaning**
    - Handle missing values  
    - Convert categorical features to numeric  
