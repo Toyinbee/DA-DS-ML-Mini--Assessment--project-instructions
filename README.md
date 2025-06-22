@@ -9,7 +9,7 @@ Each participant should complete the task for **their selected track** only:
 - 📈 Data Scientist
 - 🤖 Machine Learning Engineer
 
-You have **till the 26th of june** to complete and submit your task.  
+🕒 Deadline: Submit your project by **26th of June**, 2025
 Push your work to GitHub and paste your **public repo link** in the submission form.
 
 ---
